@@ -8,6 +8,8 @@ Options:
 
 -h|--help, Print help
 
-###Dependencies:
+### Dependencies:
+
 ifconfig
+
 openssl
