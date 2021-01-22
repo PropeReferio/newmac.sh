@@ -4,6 +4,7 @@ Usage: [options [parameters]]
 
 Options:
 -i|--interface, Provide a value for interface in ifconfig commands
+
 -h|--help, Print help
 
 ###Dependencies:
